@@ -72,6 +72,44 @@ https://github.com/CNED-SLAM/rest_mediatekdocuments<br>
 avec toutes les explications pour l'utiliser (dans le readme).
 ## Installation de l'application
 Ce mode opératoire permet d'installer l'application pour pouvoir travailler dessus.<br>
-- Installer Visual Studio 2019 entreprise et les extension Specflow et newtonsoft.json (pour ce dernier, voir l'article "Accéder à une API REST à partir d'une application C#" dans le wiki de ce dépôt : consulter juste le début pour la configuration, car la suite permet de comprendre le code existant).<br>
+- Installer Visual Studio 2019 entreprise et les extension Specflow et newtonsoft.json .<br>
 - Télécharger le code et le dézipper puis renommer le dossier en "mediatekdocuments".<br>
 - Récupérer et installer l'API REST nécessaire (https://github.com/CNED-SLAM/rest_mediatekdocuments) ainsi que la base de données (les explications sont données dans le readme correspondant).
+- 
+
+
+Bloc 1 - Support et mise à disposition de services informatiques
+
+ 
+
+B1.1 : Gérer le patrimoine informatique
+
+Exploiter des référentiels, normes et standards adoptés par le prestataire informatique
+
+Mettre en place et vérifier les niveaux d’habilitation associés à un service
+
+Gérer des sauvegardes
+
+Vérifier le respect des règles d’utilisation des ressources numériques
+
+B1.2 : Répondre aux incidents et aux demandes d’assistance et d’évolution
+
+Collecter, suivre et orienter des demandes
+
+Traiter des demandes concernant les applications
+
+B1.4 : Travailler en mode projet
+
+Analyser les objectifs et les modalités d’organisation d’un projet
+
+Planifier les activités
+
+Évaluer les indicateurs de suivi d’un projet et analyser les écarts
+
+B1.5 : Mettre à disposition des utilisateurs un service informatique
+
+Réaliser les tests d’intégration et d’acceptation d’un service
+
+Déployer un service
+
+Accompagner les utilisateurs dans la mise en place d’un service
